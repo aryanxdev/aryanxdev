@@ -17,5 +17,4 @@
 
 📫 Let's connect! Feel free to reach out for discussions, collaborations, or just to say hi!
 
-[LinkedIn](Your LinkedIn Profile)
-[Portfolio](Your Portfolio Website)
+linkedin, portfolio, redpill, medium
