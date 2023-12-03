@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @aryanxdev
-- 👀 I’m interested in ...in development and solving problems.
-- 🌱 I’m currently learning ... Javascript as a part of my full stack development roadmap.
-- 💞️ I’m looking to collaborate on ... beginner projects.
-- 📫 How to reach me ... instagram- @is.aaryan
+👋 Hello World! I'm Sagar Verma, a passionate and aspiring Software Developer with a strong foundation in Java and a love for Full Stack Development.
 
-<!---
-aryanxdev/aryanxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Currently honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack.
+
+🚀 Excited about crafting elegant solutions to real-world problems and always eager to learn new technologies.
+
+🌐 Learning :
+   - Java
+   - HTML
+   - CSS
+   - JavaScript
+   - MERN Stack (MongoDB, Express.js, React, Node.js)
+
+🔍 Actively seeking opportunities to collaborate on interesting projects and contribute to open-source communities.
+
+📚 Lifelong learner, coding enthusiast, and believer in the power of technology to drive positive change.
+
+📫 Let's connect! Feel free to reach out for discussions, collaborations, or just to say hi!
+
+[LinkedIn](Your LinkedIn Profile)
+[Portfolio](Your Portfolio Website)
