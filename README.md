@@ -1,8 +1,24 @@
-👋 Hello World! I'm Sagar Verma, a passionate and aspiring Software Developer with a strong foundation in Java and a love for Full Stack Development.
+<h1 align="center">Hi 👋, I'm Sagar Verma</h1>
+<h3 align="center">An aspiring software developer from India.</h3>
 
-💻 Currently honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack.
+- 🔭 I’m currently working on **a Chess game with Javascript.**
 
-🚀 Excited about crafting elegant solutions to real-world problems and always eager to learn new technologies.
+- 🌱 I’m currently learning **MERN Stack.**
+
+- 🤝 I’m looking for help with **Javascript, JS frameworks, how to proceed from where I currently am?**
+
+- 💬 Ask me about **HTML, CSS, Javascript, Java**
+
+- 📫 How to reach me **dev.aryansagar@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/d3v_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3v_aryan" height="30" width="40" /></a>
+<a href="https://instagram.com/aryandointhings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryandointhings" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 🌐 Learning :
    - Java
@@ -10,11 +26,3 @@
    - CSS
    - JavaScript
    - MERN Stack (MongoDB, Express.js, React, Node.js)
-
-🔍 Actively seeking opportunities to collaborate on interesting projects and contribute to open-source communities.
-
-📚 Lifelong learner, coding enthusiast, and believer in the power of technology to drive positive change.
-
-📫 Let's connect! Feel free to reach out for discussions, collaborations, or just to say hi!
-
-linkedin, portfolio, redpill, medium
