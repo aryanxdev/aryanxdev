@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Verma</h1>
 <h3 align="center">An aspiring software developer from India.</h3>
 
-- 🔭 I’m currently working on **a Chess game with Javascript.**
+- 🔭 I’m currently working on **a multi-player Chess game with Javascript.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 
